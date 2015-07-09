@@ -1,4 +1,4 @@
 *~
-NewsCrawler/bin/*
-NewsCrawler/.setings/*
-
+NewsCrawler/bin/
+NewsCrawler/.setings/
+.metadata/
