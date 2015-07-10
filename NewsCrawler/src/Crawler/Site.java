@@ -140,7 +140,7 @@ public class Site {
 		DOMSource source = new DOMSource(doc);
 		//StreamResult result = new StreamResult(new File(myPath + "\\" + SiteName + ".xml"));
 		//Create folder
-		File theDir = new File("filesXml");
+		File theDir = new File("filesXML");
 
 		// if the directory does not exist, create it
 		if (!theDir.exists()) {
