@@ -1,3 +1,7 @@
+// Project:  World News Articles Matching
+// File:     Main.java
+// Authors:  Jason Papapanagiotakis, Aris Kotsomitopoulos
+// Github:   https://github.com/A-J-Thesis/Web-Arcticle-Extractor
 package Crawler;
 
 import java.net.URL;
